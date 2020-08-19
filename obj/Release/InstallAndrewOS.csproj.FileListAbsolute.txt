@@ -1,0 +1,10 @@
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\bin\Release\InstallAndrewOS.exe.config
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\bin\Release\InstallAndrewOS.exe
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\bin\Release\InstallAndrewOS.pdb
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\obj\Release\InstallAndrewOS.csprojAssemblyReference.cache
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\obj\Release\InstallAndrewOS.Form1.resources
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\obj\Release\InstallAndrewOS.Properties.Resources.resources
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\obj\Release\InstallAndrewOS.csproj.GenerateResource.cache
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\obj\Release\InstallAndrewOS.csproj.CoreCompileInputs.cache
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\obj\Release\InstallAndrewOS.exe
+C:\Users\modin\Documents\CSharp\InstallAndrewOS\InstallAndrewOS\obj\Release\InstallAndrewOS.pdb
